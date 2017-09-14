@@ -1,2 +1,1 @@
- MERN Stack Sample project created from
- https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50
+ MERN Stack Sample project created from [React Getting Started — The MERN Stack Tutorial! (feat. ES6!)](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50)
