@@ -12,7 +12,7 @@ var port = process.env.API_PORT || 3001;
 
 
 //DB Connect
-mongoose.connect('mongodb://commentdb:commentdb@ds135384.mlab.com:35384/commentdb')
+mongoose.connect('<db-url>')
 
 app.use(bodyParser.urlencoded({ extended:true}));
 app.use(bodyParser.json());
